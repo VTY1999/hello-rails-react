@@ -4,8 +4,6 @@
 
 > 
 
-Additional description about the project and its features.
-
 ## Built With
 
 - Ruby
@@ -16,16 +14,8 @@ Additional description about the project and its features.
 - React-Router
 - React-redux
 
-- Technologies used
-
-```bash
-- Git(version control)
-```
 
 ## Getting Started
-
-<<<<<<< HEAD
-To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
