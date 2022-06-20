@@ -60,7 +60,7 @@ $ cd hello-rails-react
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/netman5/hello-rails-react/issues).
+Feel free to check the [issues page](../../issues/).
 
 ## Show your support
 
